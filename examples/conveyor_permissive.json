@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rungs": [
+    {
+      "coil": "motor_permissive",
+      "expr": {
+        "all": [
+          {
+            "contact": "request"
+          },
+          {
+            "contact": "ready"
+          },
+          {
+            "not": {
+              "contact": "fault"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
