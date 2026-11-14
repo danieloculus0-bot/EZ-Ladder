@@ -1,3 +1,5 @@
+> **Lifecycle: successful conceptual prototype archive, superseded (owner disposition, November 14, 2026).** This repository completed its exploratory purpose of specifying a proposed deterministic ladder-logic workflow and documenting its intended boundary with BEAN/Axiom. It is preserved as a historical design idea, not an active product-delivery backlog. **No ladder editor, interpreter, PLC interface, executable simulation or tested controller was implemented in this repository.** Future implementation, if desired, belongs in a newly scoped successor initiative rather than being assumed complete here. GitHub's repository-level Archived flag is separate from this documented lifecycle status.
+
 # EZ-Ladder
 
 **Ladder logic made approachable, testable, and reusable.**
